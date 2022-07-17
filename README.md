@@ -34,4 +34,5 @@ https://www.youtube.com/watch?v=gLCqSHbXgKI - Windows PowerShell [03] Profiles &
 https://www.youtube.com/watch?v=Mgn9uZtgEpo - Windows PowerShell [04] Variables, Types & PSDrives
 
 Stackoverflow  - https://stackoverflow.com/
+
 Official Microsoft Documentation - https://docs.microsoft.com/en-us/powershell/
