@@ -1,10 +1,10 @@
 # AE--Task
 
-Note: From the task description it was not clear if these commands should be separate scripts or a single script that executes the tasks in order, therefore I've created a singular script to run them all together.
+**Note: From the task description it was not clear if these commands should be separate scripts or a single script that executes the tasks in order, therefore I've created a singular script to run them all together.**
 
 The following is a script that performs several basic actions inside PowerShell.
 
-Running this script will do the following:
+## Running this script will do the following:
 
 1. Create a Parent Directory called - "task"
 
@@ -26,7 +26,7 @@ Running this script will do the following:
 
 The following resources were used for creating the script:
 
-Youtube:
+## Youtube:
 
 https://www.youtube.com/watch?v=TUNNmVeyjW0& - Windows PowerShell [01] Introduction
 
