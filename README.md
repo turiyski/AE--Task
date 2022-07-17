@@ -24,9 +24,9 @@ The following is a script that performs several basic actions inside PowerShell.
 
 7. The green folder will be empty.
 
-The following resources were used for creating the script:
+## The following resources were used for creating the script:
 
-## Youtube:
+Youtube:
 
 https://www.youtube.com/watch?v=TUNNmVeyjW0& - Windows PowerShell [01] Introduction
 
