@@ -29,8 +29,11 @@ The following resources were used for creating the script:
 Youtube:
 
 https://www.youtube.com/watch?v=TUNNmVeyjW0& - Windows PowerShell [01] Introduction
+
 https://www.youtube.com/watch?v=vO0P3JuItcM - Windows PowerShell [02] Output & File Operations
+
 https://www.youtube.com/watch?v=gLCqSHbXgKI - Windows PowerShell [03] Profiles & Execution Policies
+
 https://www.youtube.com/watch?v=Mgn9uZtgEpo - Windows PowerShell [04] Variables, Types & PSDrives
 
 Stackoverflow  - https://stackoverflow.com/
