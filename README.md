@@ -18,9 +18,9 @@ Running this script will do the following:
   - blueFile* to blue folder.
   - greenFile* to green folder.
   
-5. The redFile*s will be left with only the odd numbered files names.
+5. The redFile* will be left with only the odd numbered files names.
 
-6. The blue folder and blueFile*s will be renamed to gray folder and grayFile*s
+6. The blue folder and blueFile* will be renamed to gray folder and grayFile*
 
 7. The green folder will be empty.
 
